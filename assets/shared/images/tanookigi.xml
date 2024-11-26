@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="tanookigi.png" width="1870" height="2109">
+	<SubTexture name="down0000" x="888" y="1544" width="622" height="292" frameX="-221" frameY="-403" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="down0001" x="888" y="1839" width="664" height="233" frameX="-172" frameY="-435" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="idle0000" x="592" y="507" width="552" height="507" frameX="-206" frameY="-202" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="idle0001" x="1" y="986" width="547" height="490" frameX="-208" frameY="-196" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="idle0002" x="1108" y="1068" width="548" height="473" frameX="-202" frameY="-193" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="idle0003" x="1147" y="594" width="553" height="471" frameX="-203" frameY="-192" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="idle0004" x="551" y="1017" width="554" height="469" frameX="-203" frameY="-194" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="left0000" x="1" y="1479" width="483" height="530" frameX="-40" frameY="-145" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="left0001" x="1" y="500" width="588" height="483" frameX="-54" frameY="-176" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="right0000" x="1" y="1" width="688" height="496" frameX="-259" frameY="-184" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="right0001" x="692" y="1" width="665" height="503" frameX="-269" frameY="-187" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="up0000" x="487" y="1489" width="398" height="619" frameX="-268" frameY="-27" frameWidth="960" frameHeight="864"/>
+	<SubTexture name="up0001" x="1360" y="1" width="509" height="590" frameX="-221" frameY="-56" frameWidth="960" frameHeight="864"/>
+</TextureAtlas>
